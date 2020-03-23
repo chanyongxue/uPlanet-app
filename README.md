@@ -44,6 +44,10 @@ Conduct research with prototype
 
 - Prototype critique
 
+#### Boards
+
+[Boards](https://trello.com/b/j1LmtR9q/uplanet)
+
 ## Features
 
 - Personal Planet
